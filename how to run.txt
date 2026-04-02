@@ -1,0 +1,3 @@
+다운 pip install fastapi uvicorn[standard] groq cohere google-generativeai python-dotenv --user
+실행  python -m uvicorn main:app --reload
+인덱스클릭
